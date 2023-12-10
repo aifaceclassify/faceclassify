@@ -17,6 +17,31 @@
    ### （2）导入分类图片。点击“导入”按钮,导入需要分类的所有照片, 导出成功后，主界面总数量会更新
    ![setting](https://github.com/aifaceclassify/faceclassify/blob/main/images/settingimport.JPG?raw=true)
    ![setting](https://github.com/aifaceclassify/faceclassify/blob/main/images/settingimportend.JPG?raw=true)
-   ### （3）添加分组   
+   ### （3）添加分组。点击“添加分组”，填写组名   
+   ![addgroup](./images/groupAdd.JPG)
+   ![addgroup1](./images/groupAdd1.JPG)
+   ### （4）分组添加人脸。点击人脸库管理, 弹出 “注册人脸”对话框，点击“添加”，弹出“剪切获取人脸”对话框，接着点击“人脸检测”，等待人脸检测结束后点击人脸
+   ![groupAddFace](./images/groupAddFace.JPG)
+   ![groupAddFace1](./images/groupAddFace1.JPG)
+   ![groupAddFace2](./images/groupAddFace2.JPG)
+   ![groupAddFace3](./images/groupAddFace3.JPG)
+   ![groupAddFace4](./images/groupAddFace4.JPG)
 
+   ### （5）AI自动分组。进入主界面点击“AI识别”，左下角显示进度，运行结束后，“已归类的tab页”显示人脸相识度大于阀值的人脸（默认值80）
+   ![airun](./images/airun.png)
+   ![airun1](./images/airun1.png)
 
+   ### （6）手动调整人脸相似度阀值。可以查看“未归类”人脸相似度值，设置合适的人脸相似度阀值
+   ![no_tap](./images/no_tap.png)
+   ![scoresetting1](./images/scoresetting1.JPG)
+   ![scoresetting](./images/scoresetting.png)
+   ![scoresetting2](./images/scoresetting2.JPG)
+   ### （7）手动调整分组。对于一些复杂的场景，需要手动调整分组
+   ![move](./images/move.png)
+   ![move](./images/move1.JPG)
+   ### （8）导出
+   ![output](./images/outputJPG.JPG)
+   ![output1](./images/output1.JPG)
+   
+## 4 配置说明
+   
