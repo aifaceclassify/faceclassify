@@ -44,4 +44,13 @@
    ![output1](https://github.com/aifaceclassify/faceclassify/blob/main/images/output1.JPG?raw=true)
    
 ## 4 配置说明
-   
+   ### （1）最大线程数：默认为最大cpu物理核数目的2/3,设置越大运行越快，要求硬件性能高
+   ### （2）人脸阀值默认0.5，数值越大，人脸检测质量越高
+   ### （3）相识度显示阀值，默认为0，控制相识度是否显示框
+   ### （4）识别排序，显示度排序
+   ### （5）识别模式，对于非正面拍摄的图片，需要旋转一些角度后再进行人脸检测和相似度对比
+
+## 5 商业授权
+   ### 识别图片10张内，免费试用，商业授权和帮助请联系微信号：fs900800700
+   ![微信](https://github.com/aifaceclassify/faceclassify/blob/main/images/weixin.jpg?raw=true)
+  
