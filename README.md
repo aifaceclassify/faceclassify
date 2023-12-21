@@ -50,7 +50,7 @@
    ### （4）识别排序，显示度排序
    ### （5）识别模式，对于非正面拍摄的图片，需要旋转一些角度后再进行人脸检测和相似度对比
 
-## 5 商业授权
-   ### 免费试用（10张图片内），商业授权和帮助请联系微信号：fs900800700
+## 5 帮助
+   ### 帮助请联系微信号：fs900800700
    ![微信](https://github.com/aifaceclassify/faceclassify/blob/main/images/weixin.jpg?raw=true)
   
