@@ -2,7 +2,7 @@
 
 
 ## 1 下载
-   [百度云盘地址](https://pan.baidu.com/s/1NJRu16uHdJiFkYc01U7fuA)  提取码：j6no
+   [百度云盘地址](https://pan.baidu.com/s/1ByiGfYSrMYfR_ZLiM94C3A)  提取码：3wia
 
 ## 2 本地安装
    ### 下载后，本地文件为main.rar,解压main.rar,本地出现main文件夹
