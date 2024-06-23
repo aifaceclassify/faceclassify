@@ -1,6 +1,9 @@
 # faceclassify 是一款根据人脸相识度分类照片的软件，其内置高精度人脸识别，检测算法，同时提供了简便的可视化界面，帮助用户快速分类图片
 
 
+## [此版本不维护了， 点击跳转到最新版本](https://github.com/aifaceclassify/facexsearch)
+
+
 ## 1 下载
    [百度云盘地址](https://pan.baidu.com/s/1Qg2r4Emj4uH2Mdr5sOxjfQ)  提取码：27jr
 
